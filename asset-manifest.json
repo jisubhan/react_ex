@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jisubhan/react_ex/static/css/main.073c9b0a.css",
+    "main.js": "/jisubhan/react_ex/static/js/main.b19ec7d6.js",
+    "static/js/787.0c2fddfa.chunk.js": "/jisubhan/react_ex/static/js/787.0c2fddfa.chunk.js",
+    "static/media/logo.svg": "/jisubhan/react_ex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jisubhan/react_ex/index.html",
+    "main.073c9b0a.css.map": "/jisubhan/react_ex/static/css/main.073c9b0a.css.map",
+    "main.b19ec7d6.js.map": "/jisubhan/react_ex/static/js/main.b19ec7d6.js.map",
+    "787.0c2fddfa.chunk.js.map": "/jisubhan/react_ex/static/js/787.0c2fddfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b19ec7d6.js"
+  ]
+}
